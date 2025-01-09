@@ -8,7 +8,7 @@
     justify-content: center;
 }
 
-.red, .yellow, .blue{
+.red, .yellow, .blue, .black, .orange{
     height: 200px;
     width: 200px;
     display: flex;
@@ -33,3 +33,11 @@
 
 }
 
+.black{
+    background-color: black;
+    color: white;
+}
+
+.orange{
+    background-color: orange;
+}
